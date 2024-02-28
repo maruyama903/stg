@@ -30,7 +30,7 @@
   var idx = 0;
   var tmr = 0;
   var score = 0; //スコア
-  var hisco = 10000; //ハイスコア
+  var hisco = 0; //ハイスコア
   var stage = 0; //ステージ数
 
   function mainloop() {
